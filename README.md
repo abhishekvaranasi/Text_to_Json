@@ -1,1 +1,1 @@
-# Text_to_Json
+Extracting the proper data from text file and export as a Json file.
