@@ -1,0 +1,346 @@
+{
+  "entries": [
+    {
+      "Color": "aqua marine", 
+      "Firstname": "Ria", 
+      "Lastname": "Tillotson", 
+      "Phonenumber": "196-910-5548", 
+      "Zipcode": "97671"
+    }, 
+    {
+      "Color": "blue", 
+      "Firstname": "Annalee", 
+      "Lastname": "Loftis", 
+      "Phonenumber": "905-329-2054", 
+      "Zipcode": "97296"
+    }, 
+    {
+      "Color": "gray", 
+      "Firstname": "James", 
+      "Lastname": "Johnston", 
+      "Phonenumber": "628-102-3672", 
+      "Zipcode": "38410"
+    }, 
+    {
+      "Color": "yellow", 
+      "Firstname": "Quinton", 
+      "Lastname": "Liptak", 
+      "Phonenumber": "(653)-889-7235", 
+      "Zipcode": "70703"
+    }, 
+    {
+      "Color": "aqua marine", 
+      "Firstname": "George", 
+      "Lastname": "Won", 
+      "Phonenumber": "488-084-5794", 
+      "Zipcode": "97148"
+    }, 
+    {
+      "Color": "pink", 
+      "Firstname": "Gladis", 
+      "Lastname": "Tubb", 
+      "Phonenumber": "454-934-6454", 
+      "Zipcode": "73149"
+    }, 
+    {
+      "Color": "pink", 
+      "Firstname": "Aura", 
+      "Lastname": "Eilers", 
+      "Phonenumber": "489-634-9504", 
+      "Zipcode": "39358"
+    }, 
+    {
+      "Color": "red", 
+      "Firstname": "Blair", 
+      "Lastname": "Clary", 
+      "Phonenumber": "(463)-118-2451", 
+      "Zipcode": "07256"
+    }, 
+    {
+      "Color": "pink", 
+      "Firstname": "Robert", 
+      "Lastname": "Hood", 
+      "Phonenumber": "(054)-813-6030", 
+      "Zipcode": "47784"
+    }, 
+    {
+      "Color": "aqua marine", 
+      "Firstname": "Laurie", 
+      "Lastname": "Breland", 
+      "Phonenumber": "(087)-853-4995", 
+      "Zipcode": "44359"
+    }, 
+    {
+      "Color": "red", 
+      "Firstname": "Englebert", 
+      "Lastname": "G.Humperdink", 
+      "Phonenumber": "839-014-8051", 
+      "Zipcode": "36410"
+    }, 
+    {
+      "Color": "pink", 
+      "Firstname": "Beata", 
+      "Lastname": "Dhillon", 
+      "Phonenumber": "(843)-661-4252", 
+      "Zipcode": "90022"
+    }, 
+    {
+      "Color": "blue", 
+      "Firstname": "Magan", 
+      "Lastname": "Leedy", 
+      "Phonenumber": "(896)-391-7308", 
+      "Zipcode": "48680"
+    }, 
+    {
+      "Color": "pink", 
+      "Firstname": "Shanika", 
+      "Lastname": "Dodd", 
+      "Phonenumber": "940-761-0886", 
+      "Zipcode": "82733"
+    }, 
+    {
+      "Color": "pink", 
+      "Firstname": "Hung", 
+      "Lastname": "Moxley", 
+      "Phonenumber": "667-132-9000", 
+      "Zipcode": "93381"
+    }, 
+    {
+      "Color": "aqua marine", 
+      "Firstname": "Andy", 
+      "Lastname": "Patnaude", 
+      "Phonenumber": "(612)-712-8471", 
+      "Zipcode": "29198"
+    }, 
+    {
+      "Color": "blue", 
+      "Firstname": "Maurita", 
+      "Lastname": "Awong", 
+      "Phonenumber": "061-937-1243", 
+      "Zipcode": "15726"
+    }, 
+    {
+      "Color": "red", 
+      "Firstname": "Marita", 
+      "Lastname": "Haugland", 
+      "Phonenumber": "034-614-7966", 
+      "Zipcode": "21231"
+    }, 
+    {
+      "Color": "blue", 
+      "Firstname": "Kristeen", 
+      "Lastname": "Swearingen", 
+      "Phonenumber": "(238)-440-6451", 
+      "Zipcode": "60460"
+    }, 
+    {
+      "Color": "blue", 
+      "Firstname": "Sabina", 
+      "Lastname": "Saltsman", 
+      "Phonenumber": "(577)-767-9995", 
+      "Zipcode": "81360"
+    }, 
+    {
+      "Color": "yellow", 
+      "Firstname": "Armand", 
+      "Lastname": "Davis", 
+      "Phonenumber": "(240)-736-4719", 
+      "Zipcode": "64320"
+    }, 
+    {
+      "Color": "red", 
+      "Firstname": "Kerri", 
+      "Lastname": "Chandler", 
+      "Phonenumber": "818-246-5061", 
+      "Zipcode": "32868"
+    }, 
+    {
+      "Color": "pink", 
+      "Firstname": "Shela", 
+      "Lastname": "Mona", 
+      "Phonenumber": "986-283-6066", 
+      "Zipcode": "11198"
+    }, 
+    {
+      "Color": "gray", 
+      "Firstname": "Prince", 
+      "Lastname": "Gabler", 
+      "Phonenumber": "645-200-7094", 
+      "Zipcode": "08291"
+    }, 
+    {
+      "Color": "blue", 
+      "Firstname": "Earlene", 
+      "Lastname": "Merryman", 
+      "Phonenumber": "305-987-8362", 
+      "Zipcode": "86258"
+    }, 
+    {
+      "Color": "red", 
+      "Firstname": "Theodora", 
+      "Lastname": "Whipkey", 
+      "Phonenumber": "808-633-1734", 
+      "Zipcode": "54450"
+    }, 
+    {
+      "Color": "yellow", 
+      "Firstname": "Kelsi", 
+      "Lastname": "Butterfield", 
+      "Phonenumber": "(967)-196-4953", 
+      "Zipcode": "05644"
+    }, 
+    {
+      "Color": "gray", 
+      "Firstname": "Fatimah", 
+      "Lastname": "Mccaster", 
+      "Phonenumber": "(854)-345-7518", 
+      "Zipcode": "57693"
+    }, 
+    {
+      "Color": "aqua marine", 
+      "Firstname": "Mirian", 
+      "Lastname": "Hankey", 
+      "Phonenumber": "180-739-1295", 
+      "Zipcode": "22172"
+    }, 
+    {
+      "Color": "gray", 
+      "Firstname": "Reinaldo", 
+      "Lastname": "Vandermeer", 
+      "Phonenumber": "751-665-5618", 
+      "Zipcode": "76589"
+    }, 
+    {
+      "Color": "green", 
+      "Firstname": "Theo", 
+      "Lastname": "Parrish", 
+      "Phonenumber": "423-334-3136", 
+      "Zipcode": "60128"
+    }, 
+    {
+      "Color": "gray", 
+      "Firstname": "Mazie", 
+      "Lastname": "Chavis", 
+      "Phonenumber": "218-097-2208", 
+      "Zipcode": "48843"
+    }, 
+    {
+      "Color": "red", 
+      "Firstname": "Kent", 
+      "Lastname": "Demming", 
+      "Phonenumber": "(622)-720-0550", 
+      "Zipcode": "37820"
+    }, 
+    {
+      "Color": "aqua marine", 
+      "Firstname": "Len", 
+      "Lastname": "Pollack", 
+      "Phonenumber": "642-573-6473", 
+      "Zipcode": "29868"
+    }, 
+    {
+      "Color": "green", 
+      "Firstname": "Myrtice", 
+      "Lastname": "Ferro", 
+      "Phonenumber": "(568)-821-3874", 
+      "Zipcode": "95836"
+    }, 
+    {
+      "Color": "aqua marine", 
+      "Firstname": "Margarete", 
+      "Lastname": "Stickle", 
+      "Phonenumber": "805-612-0845", 
+      "Zipcode": "92493"
+    }, 
+    {
+      "Color": "red", 
+      "Firstname": "Clarinda", 
+      "Lastname": "Cadena", 
+      "Phonenumber": "(666)-621-7485", 
+      "Zipcode": "09517"
+    }, 
+    {
+      "Color": "pink", 
+      "Firstname": "Bernie", 
+      "Lastname": "Mallette", 
+      "Phonenumber": "859-924-2843", 
+      "Zipcode": "17300"
+    }, 
+    {
+      "Color": "blue", 
+      "Firstname": "Hyo", 
+      "Lastname": "Ballentine", 
+      "Phonenumber": "(182)-424-5300", 
+      "Zipcode": "21351"
+    }, 
+    {
+      "Color": "green", 
+      "Firstname": "Azzie", 
+      "Lastname": "Zabriskie", 
+      "Phonenumber": "110-574-1904", 
+      "Zipcode": "94339"
+    }, 
+    {
+      "Color": "yellow", 
+      "Firstname": "Jacques", 
+      "Lastname": "Renault", 
+      "Phonenumber": "157-348-8325", 
+      "Zipcode": "00328"
+    }, 
+    {
+      "Color": "blue", 
+      "Firstname": "Magaly", 
+      "Lastname": "Gregor", 
+      "Phonenumber": "698-513-7428", 
+      "Zipcode": "86286"
+    }, 
+    {
+      "Color": "pink", 
+      "Firstname": "France", 
+      "Lastname": "Schuetz", 
+      "Phonenumber": "(732)-729-4104", 
+      "Zipcode": "09893"
+    }, 
+    {
+      "Color": "blue", 
+      "Firstname": "Darline", 
+      "Lastname": "Barbeau", 
+      "Phonenumber": "260-619-7450", 
+      "Zipcode": "11027"
+    }, 
+    {
+      "Color": "pink", 
+      "Firstname": "Darcie", 
+      "Lastname": "Phoenix", 
+      "Phonenumber": "854-910-7619", 
+      "Zipcode": "55806"
+    }, 
+    {
+      "Color": "blue", 
+      "Firstname": "Justin", 
+      "Lastname": "Miller", 
+      "Phonenumber": "(657)-743-7189", 
+      "Zipcode": "58979"
+    }
+  ], 
+  "errors": [
+    0, 
+    5, 
+    7, 
+    15, 
+    16, 
+    29, 
+    37, 
+    38, 
+    41, 
+    43, 
+    44, 
+    45, 
+    47, 
+    48, 
+    49, 
+    56, 
+    57, 
+    62
+  ]
+}
